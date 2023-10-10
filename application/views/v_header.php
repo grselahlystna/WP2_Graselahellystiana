@@ -8,9 +8,9 @@
     <link rel="stylesheet" type="text/css" href="<?php echo 
                                                         base_url() ?>assets/css/stylebuku.css"> 
 </head> 
-<body //v_header.php//> 
+<body> 
     <div id="wrapper"> 
-        <header> 
+        <header //v_header.php//> 
             <hgroup> 
                 <h1>RentalBuku.net</h1> 
                 <h3>Membuat Template Sederhana dengan 
