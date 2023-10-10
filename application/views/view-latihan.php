@@ -1,10 +1,10 @@
 <html>
 
-<head>
+<head //view-latihan.php//>
  <title>Latihan 1</title>
 
  </head>
-<body //view-latihan.php//>
+<body>
     Halo Kawan.. Yuk kita belajar web programming..!!!<br>
     Nilai 1 = <?= $nilai1; ?>
     Nilai 2 = <?= $nilai2; ?>
