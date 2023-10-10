@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="<?php echo 
                                                         base_url() ?>assets/css/stylebuku.css"> 
 </head> 
-<body //v_header.php//> 
+<body  //v_header.php//> 
     <div id="wrapper"> 
         <header> 
             <hgroup> 

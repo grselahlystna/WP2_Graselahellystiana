@@ -1,5 +1,5 @@
 <section> 
-    <h1 //v_index.php//><?php echo $judul ?></h1> 
+    <h1 //v_index.php//> <?php echo $judul ?> </h1> 
     <p align='justify'>Pada pengertian codeigniter di atas 
         tadi di jelaskan bahwa codeigniter menggunakan metode MVC. Apa itu 
         MVC? Kita juga harus mengetahui apa itu MVC sebelum masuk dan lebih 
