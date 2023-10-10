@@ -6,5 +6,6 @@ class Contoh1 extends CI_Controller
         echo "<h1>Perkenalan</h1>";
         echo "Nama saya Grasela Hellystiana
         Hobi saya Renang, Membaca, dan Jalan-jalan";
+        //contoh1.php//
     }
 }
