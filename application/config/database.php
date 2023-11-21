@@ -74,7 +74,7 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	//database.php//
+	
 	'dsn'	=> '',
 	'hostname' => 'localhost',
 	'username' => 'root',
@@ -94,4 +94,5 @@ $db['default'] = array(
 	'stricton' => FALSE,
 	'failover' => array(),
 	'save_queries' => TRUE
+	//database.php//
 );
