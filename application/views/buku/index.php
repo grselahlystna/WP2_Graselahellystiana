@@ -28,7 +28,7 @@
                     </tr>
                 </thead>
                 <tbody>
-
+                    
                     <?php
                         $a = 1;
                         foreach ($buku as $b) { ?>
@@ -60,6 +60,7 @@
 
 </div>
 <!-- /.container-fluid -->
+
 
 </div>
 <!-- End of Main Content -->
@@ -120,5 +121,6 @@
             </form>
         </div>
     </div>
+    
 </div>
 <!-- End of Modal Tambah Mneu -->
