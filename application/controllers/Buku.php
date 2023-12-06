@@ -3,6 +3,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
 class Buku extends CI_Controller
 {
+    //membuat crud buku, update data buku, hapus data buku//
     public function __construct()
     {
         parent::__construct();
