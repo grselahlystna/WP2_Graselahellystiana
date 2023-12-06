@@ -32,6 +32,7 @@ class ModelBuku extends CI_Model
 
     public function total($field, $where)
     {
+		//total//
         $this->db->select_sum($field);
         if(!empty($where) && count($where) > 0){
             $this->db->where($where);
