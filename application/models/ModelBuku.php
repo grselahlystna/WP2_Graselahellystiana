@@ -21,6 +21,7 @@ class ModelBuku extends CI_Model
 
     public function updateBuku($data = null, $where = null)
     {
+        //updatebuku//
         $this->db->update('buku', $data, $where);
     }
 
